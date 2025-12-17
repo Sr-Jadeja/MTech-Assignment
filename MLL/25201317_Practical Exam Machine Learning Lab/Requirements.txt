@@ -1,0 +1,8 @@
+Python libraries needed to run the code.
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
